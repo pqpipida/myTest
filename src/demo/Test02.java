@@ -1,9 +1,8 @@
-
 package demo;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
+import java.util.Scanner;
 
 /**
  * Created by dd  on  2018/9/8.
