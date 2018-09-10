@@ -1,4 +1,4 @@
-package demo;
+package demo.java;
 /* Created by dd  on  2018/9/8.
 * 时间限制：1秒
 *空间限制：32768k
