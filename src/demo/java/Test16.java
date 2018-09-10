@@ -1,7 +1,7 @@
 package demo.java;
 
 /**
- * Created by dd  on  2018/9/10.
+ * Created by dd  on  2018/9/11.
  * [编程题] 异或
  * 时间限制：1秒
  * 空间限制：32768K
@@ -32,5 +32,5 @@ package demo.java;
  * 输出例子1:
  * 2
  */
-public class Test06 {
+public class Test16 {
 }
